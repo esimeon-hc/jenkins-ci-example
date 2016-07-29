@@ -1,1 +1,2 @@
-"# jenkins-ci-example" 
+"# jenkins-ci-example"
+Haiticloud.com
